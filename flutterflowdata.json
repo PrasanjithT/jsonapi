@@ -1,15 +1,33 @@
 [
-  {
-    "songName": "Amazing Grace",
-    "lyrics": "Amazing grace, how sweet the sound\nThat saved a wretch like me\nI once was lost, but now am found\nWas blind, but now I see"
-  },
-  {
-    "songName": "How Great Thou Art",
-    "lyrics": "O Lord, my God, when I in awesome wonder\nConsider all the worlds Thy hands have made\nI see the stars, I hear the rolling thunder\nThy power throughout the universe displayed"
-  },
-  {
-    "songName": "In Christ Alone",
-    "lyrics": "In Christ alone, my hope is found\nHe is my light, my strength, my song\nThis Cornerstone, this solid Ground\nFirm through the fiercest drought and storm"
-  }
-]
 
+  {
+
+    "language": "SIN",
+
+    "title": "මග පෙන්වන්",
+
+    "lyric": "මග පෙන්වන් මා පෙම්බරා\nඅදහා ආමි පා වෙතා  \nපිහිට වෙම් පිහිට වෙම් පිහිට වෙමින් \nමා හසුරුවන් \n\nකළුරුවාව මෙන් හිමි දෑසේ \nරක්ෂා කළා මා  මුර්දු කමින් \nස්තුති වේ ස්තුති වේ \nකරුණා ගුණයටා \n\nසෝදිසි පීඩා මද්‍යයේ \nහිමිගෙන් පහස ලැබුවෙමි \nපසසමි පසසමි \nසහනේ දුන් මා සමිදුටා \n\nපාප ශාප රෝගවලින් \nගිලිහී මැරෙන මොහොතේදී \nමිදුවා මා  මිදුවා මා \nයේසුතුම් ප්‍රේමයෙන්"
+
+  },
+
+  {
+
+    "language": "ENG",
+
+    "title": "Love lifted me",
+
+    "lyric": "I was sinking deep in sin,\nFar from the peaceful shore,\nVery deeply stained within,\nSinking to rise no more;\nBut the Master of the sea\nHeard my despairing cry,\nFrom the waters lifted me–\nNow safe am I.\n\nLove lifted me,\nLove lifted me,\nWhen nothing else could help,\nLove lifted me;\nLove lifted me,\nLove lifted me,\nWhen nothing else could help,\nLove lifted me.\n\nAll my heart to Him I give,\nEver to Him I'll cling,\nIn His blessed presence live,\nEver His praises sing.\nLove so mighty and so true\nMerits my soul's best songs;\nFaithful, loving service, too,\nTo Him belongs.\n\nSouls in danger, look above,\nJesus completely saves;\nHe will lift you by His love\nOut of the angry waves.\nHe's the Master of the sea,\nBillows His will obey;\nHe your Savior wants to be–\nBe saved today."
+
+  },
+
+  {
+
+    "language": "TAM",
+
+    "title": "இயேசுவின் நாமம் இனிதான நமாம்",
+
+    "lyric": "இயேசுவின் நாமம் இனிதான நமாம்\nஇணையில்லா நாமம் இன்ப நாமம்-எங்கள்\n\nபாவத்தை போக்கும் பயமதை நீக்கும்\nபரம சந்தோஷம் பக்தருக்களிக்கும்\n\nபரிமள தைலமாம் இயேசுவின் நாமம்\nபார் எங்கும் வாசனை வீசிடும் நாமம்\n\nவானிலும் பூவிலும் மேலான நாமம்\nவானாதி வானவர் இயேசுவின் நாமம்\n\nநேற்றும் இன்றும் என்றும் மாறிடா நாமம்\nநம்பினோரை என்றும் கைவிடா நமாம்\n\nமுழங்கால் யாவும் முடங்கிடும் நாமம்\nமூன்றில் ஒன்றாக ஜொலிப்பவர் நாமம்\n\nசாத்தானின் சேனையை ஜெயித்திட்ட நாமம்\nசாபப் பிசாசை துரத்திடும் நாமம்"
+
+  }
+
+]
